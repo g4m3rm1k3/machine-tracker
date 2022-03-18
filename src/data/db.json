@@ -1,0 +1,52 @@
+{
+	"machines": [
+		{
+			"machine": "SW1",
+			"status": "running",
+			"cycles": "0",
+			"partNumber": "1031039-02",
+			"listInfo": {
+				"operator": "2222",
+				"date": "03-01",
+				"stock": "N5",
+				"id": "01237"
+			}
+		},
+		{
+			"machine": "SW1",
+			"status": "running",
+			"cycles": "0",
+			"partNumber": "1031039-02",
+			"listInfo": {
+				"operator": "2222",
+				"date": "03-01",
+				"stock": "N5",
+				"id": "01237"
+			}
+		},
+		{
+			"machine": "SW1",
+			"status": "running",
+			"cycles": "0",
+			"partNumber": "1031039-02",
+			"listInfo": {
+				"operator": "2222",
+				"date": "03-01",
+				"stock": "N5",
+				"id": "01237"
+			}
+		},
+		{
+			"machine": "SW1",
+			"status": "running",
+			"cycles": "0",
+			"partNumber": "1031039-02",
+			"listInfo": {
+				"operator": "2222",
+				"date": "03-01",
+				"stock": "N5",
+				"id": "01237"
+			}
+		}
+	]
+}

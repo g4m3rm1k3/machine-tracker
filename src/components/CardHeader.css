@@ -1,0 +1,73 @@
+.flip-card__heading-span--1 {
+	padding: 0.5rem 1.5rem;
+	-webkit-box-decoration-break: clone;
+	box-decoration-break: clone;
+	background: linear-gradient(45deg, #ffb900, #ff7730, #ffb900, #ff7730);
+	background-size: 400%;
+	-webkit-animation: change 6s ease-in-out infinite;
+	animation: change 6s ease-in-out infinite;
+	/* background-clip: text; */
+	-webkit-text-stroke: 0.01rem #fff;
+}
+
+.flip-card__heading-span--2 {
+	padding: 0.5rem 1.5rem;
+	-webkit-box-decoration-break: clone;
+	box-decoration-break: clone;
+	background: linear-gradient(45deg, #7ed56f, #28b485, #7ed56f, #28b485);
+	background-size: 400%;
+	position: relative;
+	-webkit-animation: change 6s ease-in-out infinite;
+	animation: change 6s ease-in-out infinite;
+	/* background-clip: text; */
+	-webkit-text-stroke: 0.01rem #fff;
+}
+.flip-card__heading-span--3 {
+	padding: 0.5rem 1.5rem;
+	-webkit-box-decoration-break: clone;
+	box-decoration-break: clone;
+	background: linear-gradient(45deg, #c34632, #9e1711, #c34632, #9e1711);
+	background-size: 400%;
+	position: relative;
+	-webkit-animation: change 6s ease-in-out infinite;
+	animation: change 6s ease-in-out infinite;
+	/* background-clip: text; */
+	-webkit-text-stroke: 0.01rem #fff;
+}
+
+.flip-card__heading-span--4 {
+	padding: 0.5rem 1.5rem;
+	-webkit-box-decoration-break: clone;
+	box-decoration-break: clone;
+	background: linear-gradient(45deg, #2998ff, #5643fa, #2998ff, #5643fa);
+	background-size: 400%;
+	position: relative;
+	-webkit-animation: change 6s ease-in-out infinite;
+	animation: change 6s ease-in-out infinite;
+	/* background-clip: text; */
+	-webkit-text-stroke: 0.01rem #fff;
+}
+
+@-webkit-keyframes change {
+	0% {
+		background-position: 0 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0 50%;
+	}
+}
+
+@keyframes change {
+	0% {
+		background-position: 0 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0 50%;
+	}
+}
